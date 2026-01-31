@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "Módulo 2/praticando html e css"
+		},
+		{
+			"path": "Módulo 2/pratica 02"
+		},
+		{
+			"path": "Módulo 2/links"
+		},
+		{
+			"path": "Módulo 2/desafio 02"
+		},
+		{
+			"path": "../projeto lucas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "praticando html e css"
+	}
+}
