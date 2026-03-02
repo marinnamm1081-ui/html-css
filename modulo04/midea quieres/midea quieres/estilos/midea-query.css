@@ -49,3 +49,17 @@ Grandes telas: Acima de 1200px
     img#tv{display: block;}
 
 }
+@media print {
+    body{
+        background-image: url(../back-print.jpg);
+       }
+    main, h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: none;
+    color: black;
+  
+   }
+   
+   
+
+}
